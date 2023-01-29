@@ -1,0 +1,14 @@
+/Users/rennochj/code/rust/rust-play/actix-gcd/target/debug/deps/awc-cd0b21fd248f12f8.rmeta: /Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/lib.rs /Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/builder.rs /Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/connect.rs /Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/error.rs /Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/frozen.rs /Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/request.rs /Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/response.rs /Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/sender.rs /Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/test.rs /Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/ws.rs
+
+/Users/rennochj/code/rust/rust-play/actix-gcd/target/debug/deps/awc-cd0b21fd248f12f8.d: /Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/lib.rs /Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/builder.rs /Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/connect.rs /Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/error.rs /Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/frozen.rs /Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/request.rs /Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/response.rs /Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/sender.rs /Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/test.rs /Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/ws.rs
+
+/Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/lib.rs:
+/Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/builder.rs:
+/Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/connect.rs:
+/Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/error.rs:
+/Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/frozen.rs:
+/Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/request.rs:
+/Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/response.rs:
+/Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/sender.rs:
+/Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/test.rs:
+/Users/rennochj/.cargo/registry/src/github.com-1ecc6299db9ec823/awc-0.2.8/src/ws.rs:
